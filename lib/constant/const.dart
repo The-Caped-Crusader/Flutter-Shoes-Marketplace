@@ -1,0 +1,1 @@
+const mainColor = 0xFF4C53A5 ;
